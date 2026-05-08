@@ -48,8 +48,8 @@
 ###
 
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajoydey99&layout=compact&theme=dracula&v=1" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ajoydey99&show_icons=true&theme=dracula&v=1" height="150"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajoydey99&layout=compact&theme=dracula&v=1" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajoydey99&show_icons=true&theme=dracula&v=1" height="150"/> -->
 </div>
 
 ###
