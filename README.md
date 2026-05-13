@@ -47,17 +47,26 @@
 
 ###
 
-<div align="left">
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajoydey99&layout=compact&theme=dracula&v=1" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ajoydey99&show_icons=true&theme=dracula&v=1" height="150"/> -->
+<div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=ajoydey99&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=ajoydey99&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=ajoydey99&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=ajoydey99&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=ajoydey99&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=ajoydey99&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+
 </div>
 
 ###
-
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=ajoydey99&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) t -->
